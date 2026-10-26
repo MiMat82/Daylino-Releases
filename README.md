@@ -4,7 +4,7 @@ Keep your family's plans, routines and everyday tasks together on your own Windo
 
 [**Download Daylino 0.7.0 for Windows x64**](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.7.0/Daylino-0.7.0-win-x64-Setup.exe) · [**Screenshots, features, instructions and changes**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.0)
 
-![Real Daylino 0.7.0 Overview with fictional demonstration data](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.7.0/01-family-overview.png)
+![Real Daylino 0.7.0 Overview with fictional demonstration data](docs/screenshots/0.7.0/01-family-overview.png)
 
 ## Included
 
