@@ -2,7 +2,7 @@
 
 Keep your family's plans, routines and everyday tasks together on your own Windows computer. Daylino includes Danish and English, with on-screen mouse and touch controls.
 
-[**Download Daylino 0.7.0 for Windows x64**](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.7.0/Daylino-0.7.0-win-x64-Setup.exe) · [**Screenshots, features, instructions and changes**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.0)
+[**Download Daylino 0.7.1 for Windows x64**](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.7.1/Daylino-0.7.1-win-x64-Setup.exe) · [**0.7.1 icon changes and update steps**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.1) · [**Illustrated feature guide**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.0)
 
 ![Real Daylino 0.7.0 Overview with fictional demonstration data](docs/screenshots/0.7.0/01-family-overview.png)
 
@@ -21,7 +21,9 @@ This preview runs on one Windows x64 computer. Phone connectivity, mobile apps a
 
 For a first installation, download and run the Setup EXE, then follow the household wizard.
 
-To update from 0.6.1 or earlier, export a backup, use **Settings → Quit Daylino**, then run the 0.7.0 installer under the same Windows user. Existing household data is retained. Check **Settings → About** afterward to confirm **0.7.0**. This one-time installation enables the updater for later releases.
+To update from 0.6.1 or earlier, export a backup, use **Settings → Quit Daylino**, then run the 0.7.1 installer under the same Windows user. Existing household data is retained. Check **Settings → About** afterward to confirm **0.7.1**. This one-time installation enables the updater for later releases.
+
+From 0.7.0, use **Settings → About → Check for updates** and then **Update now** to install the icon fix.
 
 Once a complete required update is downloaded and verified, a guardian must select **Update now** before normal use continues. Recovery backup and Quit remain available.
 
