@@ -2,7 +2,7 @@
 
 Keep your family's plans, routines and everyday tasks together on your own Windows computer. Daylino includes Danish and English, with on-screen mouse and touch controls.
 
-[**Download Daylino 0.7.1 for Windows x64**](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.7.1/Daylino-0.7.1-win-x64-Setup.exe) · [**0.7.1 icon changes and update steps**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.1) · [**Illustrated feature guide**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.0)
+[**Download Daylino 0.8.0 for Windows x64**](https://github.com/MiMat82/Daylino-Releases/releases/download/v0.8.0/Daylino-0.8.0-win-x64-Setup.exe) · [**Meals and Shopping changes**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.8.0) · [**Illustrated feature guide**](https://github.com/MiMat82/Daylino-Releases/releases/tag/v0.7.0)
 
 ![Real Daylino 0.7.0 Overview with fictional demonstration data](docs/screenshots/0.7.0/01-family-overview.png)
 
@@ -10,6 +10,7 @@ Keep your family's plans, routines and everyday tasks together on your own Windo
 
 - Shared Overview, individual family timetables and a monthly calendar.
 - Plans, repetitions, meals, notes, tasks, shopping and transport arrangements.
+- Optional weekly meal planning, saved dishes, servings and reviewed ingredient transfers to shopping.
 - Visual routines, child activity requests and guardian-controlled editing.
 - Previewed local `.ics` calendar import, backups, search and item recovery.
 - Signed Windows update downloads with guardian installation and recovery copies.
@@ -21,9 +22,9 @@ This preview runs on one Windows x64 computer. Phone connectivity, mobile apps a
 
 For a first installation, download and run the Setup EXE, then follow the household wizard.
 
-To update from 0.6.1 or earlier, export a backup, use **Settings → Quit Daylino**, then run the 0.7.1 installer under the same Windows user. Existing household data is retained. Check **Settings → About** afterward to confirm **0.7.1**. This one-time installation enables the updater for later releases.
+To update from 0.6.1 or earlier, export a backup, use **Settings → Quit Daylino**, then run the 0.8.0 installer under the same Windows user. Existing household data is retained. Check **Settings → About** afterward to confirm **0.8.0**. This one-time installation enables the updater for later releases.
 
-From 0.7.0, use **Settings → About → Check for updates** and then **Update now** to install the icon fix.
+From 0.7.0 or later, use **Settings → About → Check for updates** and then **Update now** to install Meals and Shopping.
 
 Once a complete required update is downloaded and verified, a guardian must select **Update now** before normal use continues. Recovery backup and Quit remain available.
 
@@ -32,3 +33,5 @@ Read the [full release guide](https://github.com/MiMat82/Daylino-Releases/releas
 ## Om udgivelsen
 
 Daylino er en lokal familiehub til Windows x64. Ved opdatering fra 0.6.1 eller ældre: eksportér en sikkerhedskopi, afslut hubben under **Indstillinger → Afslut Daylino**, og kør installationsprogrammet under samme Windows-bruger. Kontrollér versionen under **Indstillinger → Om Daylino**.
+
+De valgfrie kort Madplan og Indkøb kan slås til under **Indstillinger → Generelt → Administrer tilføjelser**. Planlæg ugen, gem egne retter, og gennemgå ingredienser før de føjes til indkøb. Alt virker offline; kort, der slås fra, beholder deres data.
